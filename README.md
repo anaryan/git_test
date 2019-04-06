@@ -1,0 +1,1 @@
+This is Mikku's first git project!
